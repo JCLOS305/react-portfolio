@@ -6,7 +6,7 @@ function Footer() {
       <div className="content has-text-centered">
         <p>
           <strong>Full Stack Developer Portfolio</strong> - a React site by{" "}
-          <a href="https://github.com/EmilyNecciai" target="_blank" rel="noreferrer">
+          <a href="https://github.com/jclos305" target="_blank" rel="noreferrer">
          Jeancarlos Mulet
           </a>
           .
