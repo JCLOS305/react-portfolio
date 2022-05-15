@@ -15,7 +15,7 @@ a React made portfolio showcasing 6 of my full stack developer projects.
 
 ### Preview 
 
-![Preview]()
+![Preview](https://github.com/JCLOS305/react-portfolio/blob/main/public/img/REACTPORTFOLIOPREVIEW.png?raw=true)
 
 
 ### Tech Used
