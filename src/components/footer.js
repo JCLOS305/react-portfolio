@@ -18,6 +18,10 @@ function Footer() {
             LinkedIn
           </a>{" "}
           |{" "}{" "}
+          <a href="https://www.github.com/jclos305" target="_blank" rel="noreferrer">
+            Github
+          </a>{" "}
+          |{" "}{" "}
           <a href="https://www.xbox.com" target="_blank" rel="noreferrer">
             Xbox Online
           </a>
