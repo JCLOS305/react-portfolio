@@ -17,7 +17,7 @@ const projects = [
     id: 1,
     title: "Whine Dine",
     languages: "CSS, HTML, JavaScript.",
-    packages: ""
+    packages: "none",
     image: "/img/whinedine.png",
     description: "Whine? Dine. is an application designed to help “undecidable millennials” come to a conclusion on what’s for dinner. The app uses API’s to randomly generate dinner combos for users and helps you search for drink and food recipes by keywords!",
     repo: "https://github.com/JCLOS305/whine-dine",
