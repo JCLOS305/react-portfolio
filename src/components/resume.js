@@ -23,7 +23,7 @@ function Resume() {
         <hr />
         <ul>
             <li>HTML, CSS, Javascript</li>
-            <li>OpenAPI, YAML, JSON</li>
+            <li>OpenAPI, JSON</li>
             <li>Markdown</li>
             <li>Git</li>
             <li>Github Repo</li>
