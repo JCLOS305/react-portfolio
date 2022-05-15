@@ -22,8 +22,8 @@ function Footer() {
             Github
           </a>{" "}
           |{" "}{" "}
-          <a href="https://www.xbox.com" target="_blank" rel="noreferrer">
-            Xbox Online
+          <a href="https://stackoverflow.com/users/17618915/jeancarlos" target="_blank" rel="noreferrer">
+           Stack Overflow
           </a>
         </p>
       </div>
