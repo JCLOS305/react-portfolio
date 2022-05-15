@@ -9,10 +9,10 @@ function About() {
       <hr />
       <img className="my-pic" src={process.env.PUBLIC_URL + '/img/profile.jpg'} alt="Jeancarlos Mulet"/>
       <p className="content is-italic mt-4">
-        Jeancarlos Mulet, by the time you are reading this I have grauduated from The University of Miami as a Full Stack Developer.
+      just trying to get by, one line of code at a time. 
       </p>
       <p className="content">
-       just trying to get by one line of code at a time
+      by the time you are reading this I have grauduated from The University of Miami as a Full Stack Developer.
       </p>
     </div>
   );
