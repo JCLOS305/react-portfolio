@@ -40,5 +40,16 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "description": "a React made portfolio showcasing 6 of my full stack developer projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCLOS305/react-portfolio.git"
+  },
+  "author": "Jeancarlos Mulet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JCLOS305/react-portfolio/issues"
   }
 }
